@@ -1,0 +1,29 @@
+body{
+    background-image:url("download (4).jpg");
+    background-size: cover;
+}
+.heading{
+    font-size: 22px;
+    color: green;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px palegreen;
+}
+.note{
+    color: red;
+}
+.copy_right_footer{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-size: large;
+}
+canvas{
+    border: 5px aqua;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px gray;
+}
